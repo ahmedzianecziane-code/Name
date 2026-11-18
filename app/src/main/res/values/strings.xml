@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">NeuralLens</string>
+    <string name="header_subtitle">DLSS 5 Visual Filter</string>
+    <string name="status_active">ACTIVE</string>
+    <string name="status_standby">STANDBY</string>
+    <string name="power_enable">Activate Neural Look</string>
+    <string name="power_disable">Deactivate Filter</string>
+    <string name="power_permission_needed">Grant Overlay Access</string>
+    <string name="intensity_title">Filter Intensity</string>
+    <string name="intensity_zero_hint">0% — Original Unfiltered Display</string>
+    <string name="presets_title">Visual Profiles</string>
+    <string name="preset_balanced">Balanced</string>
+    <string name="preset_balanced_sub">DLSS 5 Standard</string>
+    <string name="preset_cinematic">Cinematic Ray-Traced</string>
+    <string name="preset_cinematic_sub">Deep Shadows &amp; Warm Highlights</string>
+    <string name="preset_competitive">Crisp Competitive</string>
+    <string name="preset_competitive_sub">High Clarity &amp; Vibrancy</string>
+    <string name="bubble_toggle_title">In-Game Floating Controller</string>
+    <string name="bubble_toggle_desc">Draggable edge bubble for instant ON/OFF and intensity control inside games</string>
+    <string name="preview_title">Live Curve Calibration Preview</string>
+    <string name="preview_hold_compare">Hold to compare original</string>
+    <string name="permission_overlay_title">Display Over Other Apps</string>
+    <string name="permission_overlay_desc">Required for hardware-composited pass-through screen grading without screen capture.</string>
+    <string name="permission_notifications_title">Service Status Notification</string>
+    <string name="permission_notifications_desc">Keeps the zero-overhead filter service alive during fullscreen gaming sessions.</string>
+    <string name="btn_grant">Grant</string>
+    <string name="btn_granted">Granted</string>
+    <string name="notif_channel_name">NeuralLens Visual Filter</string>
+    <string name="notif_channel_desc">Controls active DLSS 5 hardware screen grading overlay</string>
+    <string name="notif_title_active">NeuralLens Active • %1$s (%2$d%%)</string>
+    <string name="notif_title_standby">NeuralLens Standby • %1$s</string>
+    <string name="notif_body">Hardware-accelerated pass-through • 0% frame capture</string>
+    <string name="notif_action_toggle_on">Enable</string>
+    <string name="notif_action_toggle_off">Pause</string>
+    <string name="notif_action_stop">Stop</string>
+</resources>

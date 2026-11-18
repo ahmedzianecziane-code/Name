@@ -1,0 +1,6 @@
+{
+  "name": "NeuralLens",
+  "description": "Hardware-accelerated real-time DLSS 5 visual screen filter overlay with intensity control, presets, and in-game floating bubble.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
